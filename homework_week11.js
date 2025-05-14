@@ -59,3 +59,6 @@ console.log("Updated fruits:", fruits);
 
 let firstThreeFruits = fruits.slice(0, 3);
 console.log("First 3 fruits:", firstThreeFruits);
+
+document.getElementById("output").innerText = "✅ Hello from JavaScript!";
+
